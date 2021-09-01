@@ -8,9 +8,9 @@
 
 <h3 align="left"><b>What I'm doing:</b></h3>
 
-- 🌁 I’m currently studying in DTU (Duy Tan Universiy - Viet Nam)
+- 🌁 I’m currently studying in **DTU (Duy Tan Universiy - Viet Nam)**
 
-- 🌱 I’m currently learning PHP, Nodejs, Python, Java and Web Development! 
+- 🌱 I’m currently learning: **PHP, Nodejs, Python, Java and Web Development!**
 
 - 📫 How to reach me: **hoangtaizxc@gmail.com**
 
