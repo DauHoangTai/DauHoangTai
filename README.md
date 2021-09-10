@@ -68,6 +68,7 @@
 </p>
 
 ------
+Discord: taidh#6710
 
 [DauHoangTai](https://github.com/DauHoangTai)
 
